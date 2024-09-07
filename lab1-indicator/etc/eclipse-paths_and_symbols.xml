@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="holder for library settings">
+
+</language>
+<language name="Assembly">
+<includepath>${ARM_INC_PATH}</includepath>
+<includepath>${EMLIB}/stm32/Libraries/STM32F0xx_StdPeriph_Lib_V1.5.0/Libraries/CMSIS/Include</includepath>
+<includepath>${EMLIB}/stm32/Libraries/STM32F0xx_StdPeriph_Lib_V1.5.0/Libraries/STM32F0xx_StdPeriph_Driver/inc</includepath>
+<includepath>${EMLIB}/stm32/Libraries/STM32F0xx_StdPeriph_Lib_V1.5.0/Libraries/CMSIS/Device/ST/STM32F0xx/Include</includepath>
+
+</language>
+<language name="GNU C++">
+<includepath>${ARM_INC_PATH}</includepath>
+<includepath>${EMLIB}/stm32/Libraries/STM32F0xx_StdPeriph_Lib_V1.5.0/Libraries/CMSIS/Include</includepath>
+<includepath>${EMLIB}/stm32/Libraries/STM32F0xx_StdPeriph_Lib_V1.5.0/Libraries/STM32F0xx_StdPeriph_Driver/inc</includepath>
+<includepath>${EMLIB}/stm32/Libraries/STM32F0xx_StdPeriph_Lib_V1.5.0/Libraries/CMSIS/Device/ST/STM32F0xx/Include</includepath>
+
+</language>
+<language name="GNU C">
+<includepath>${ARM_INC_PATH}</includepath>
+<includepath>${EMLIB}/stm32/Libraries/STM32F0xx_StdPeriph_Lib_V1.5.0/Libraries/CMSIS/Include</includepath>
+<includepath>${EMLIB}/stm32/Libraries/STM32F0xx_StdPeriph_Lib_V1.5.0/Libraries/STM32F0xx_StdPeriph_Driver/inc</includepath>
+<includepath>${EMLIB}/stm32/Libraries/STM32F0xx_StdPeriph_Lib_V1.5.0/Libraries/CMSIS/Device/ST/STM32F0xx/Include</includepath>
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="holder for library settings">
+
+</language>
+<language name="Assembly">
+<macro>
+<name>STM32F030</name><value/>
+</macro>
+
+</language>
+<language name="GNU C++">
+<macro>
+<name>STM32F030</name><value/>
+</macro>
+
+</language>
+<language name="GNU C">
+<macro>
+<name>STM32F030</name><value/>
+</macro>
+
+</language>
+</section>
+</cdtprojectproperties>
