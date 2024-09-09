@@ -31,7 +31,7 @@ This repository contains a series of labs focused on learning ARM STM32 programm
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stm32-arm-labs.git
+   git clone https://github.com/MACaron99/arm-stm32.git
     ```
 2. Open the project in STM32CubeIDE or another compatible IDE.
 3. Build the project and flash it onto your STM32 board.
